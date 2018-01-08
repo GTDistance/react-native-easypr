@@ -7,10 +7,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GTDistance/react-native-toast-test"
+    "url": "https://github.com/GTDistance/react-native-easypr"
   },
   "keywords": [
-    "plate"
+    "plate",
+    "Recoginze"
   ],
   "author": "thomas.wang",
   "license": "ISC"
